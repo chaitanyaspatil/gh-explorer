@@ -1,0 +1,7 @@
+.env
+.conda/
+.vscode/
+__pycache__/
+*.pyc
+.DS_Store
+traces/
